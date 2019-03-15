@@ -1,7 +1,6 @@
 import { Component } from '@angular/core';
 import { CdkDragDrop, moveItemInArray, transferArrayItem } from '@angular/cdk/drag-drop';
 import { HttpClient } from '@angular/common/http';
-import { Observable } from 'rxjs';
 
 export interface Character {
   name: string;
