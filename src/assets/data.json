@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Scorpion",
+        "image": "https://i.pinimg.com/564x/c4/b2/65/c4b2659a04c7cb1f99c1b2ed738f73d2.jpg",
+        "fatality": "X + L2 + UP"
+    },
+    {
+        "name": "Subzero",
+        "image": "https://i.pinimg.com/564x/80/b5/45/80b5458dd048c3457ca54a903de3f7ba.jpg",
+        "fatality": "Up + Down + Up + Kick medium"
+    },
+    {
+        "name": "Kitana",
+        "image": "https://i.pinimg.com/originals/4f/cc/cd/4fcccdf78814311d77be47d233db1699.png",
+        "fatality": "X + L2 + UP"
+    },
+    {
+        "name": "Aang",
+        "image": "http://rehatron-alpha.eu/images/6321365424_essay-help-forum.png",
+        "fatality": "  L2 + UP"
+    }
+]
